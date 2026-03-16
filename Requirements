@@ -1,0 +1,37 @@
+# ─────────────────────────────────────────────────────────────
+# AI-Based Customer Behavior Segmentation — Requirements
+# Platform: Google Colab (Python 3.10+)
+# ─────────────────────────────────────────────────────────────
+
+# Install these 3 in Colab — everything else is pre-installed
+umap-learn==0.5.7
+xgboost==2.1.3
+plotly==5.24.1
+
+# ─────────────────────────────────────────────────────────────
+# Pre-installed on Google Colab (listed for reference)
+# ─────────────────────────────────────────────────────────────
+
+# Google Cloud
+# google-cloud-bigquery==3.11+
+# google-cloud-bigquery-storage==2.22+
+# db-dtypes==1.1+
+# pyarrow==12.0+
+
+# Data
+# pandas==2.2+
+# numpy==1.26+
+
+# Machine Learning
+# scikit-learn==1.4+
+# scipy==1.11+
+# joblib==1.3+
+
+# Visualization
+# matplotlib==3.7+
+# seaborn==0.13+
+
+# ─────────────────────────────────────────────────────────────
+# For local VS Code installation (instead of Colab)
+# Run: pip install -r requirements_local.txt
+# ─────────────────────────────────────────────────────────────
